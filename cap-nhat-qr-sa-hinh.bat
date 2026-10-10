@@ -2,7 +2,7 @@
 chcp 65001 >nul
 setlocal
 
-set "REPO_DIR=%USERPROFILE%\Documents\SQL Server Management Studio\XUAT IMAGE QR\FULL CODE QUET QR 3 NOI DUNG\1. QR QUET THI HINH"
+set "REPO_DIR=E:\1. TONG HOP CAC TOOL LU NHAN\XUAT IMAGE QR\FULL CODE QUET QR 3 NOI DUNG\1. QR QUET THI HINH"
 
 echo ===============================================
 echo CAP NHAT QR SA HINH LEN GITHUB
